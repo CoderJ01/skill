@@ -31,7 +31,8 @@ header nav ul li a {
 /* SECOND HEADER  */
 
 .header-two {
-    margin-top: 785px;
+    margin-top: 770px;
+    position: absolute;
 }
 
 .header-two nav ul li a {
