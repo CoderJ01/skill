@@ -2,3 +2,27 @@ body {
     background-image: url("../../assets/images/Los-Angeles-Mountains.jpg");
     height: 2630px;
 }
+
+header {
+    height: 50px;
+    margin-left: 750px;
+    width: 300px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    margin-left: -10px;
+}
+
+header nav ul li {
+    margin-left: 12px;
+    text-transform: uppercase;
+}
+
+header nav ul li a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
