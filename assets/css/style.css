@@ -28,6 +28,17 @@ header nav ul li a {
     text-decoration: none;
 }
 
+/* SECOND HEADER  */
+
+.header-two {
+    margin-top: 785px;
+}
+
+.header-two nav ul li a {
+    color: rgb(28, 40, 51);
+    font-weight: bold;
+}
+
 /* FIRST SECTION  */
 
 #one {
@@ -79,3 +90,57 @@ header nav ul li a {
     text-transform: uppercase;
 }
 
+/* SECOND SECTION */
+
+#two {
+    border: 1px solid transparent;
+    height: 170px;
+    margin-top: 193px;
+}
+
+.text-two {
+    border: 1px solid transparent;
+    height: 25%;
+    margin-left: 610px;
+    margin-top: 60px;
+    width: 40%;
+}
+
+.label-two {
+    border: 1px solid transparent;
+    height: 350%;
+    margin-left: -350px;
+    margin-top: -50px;
+    width: 55%;
+}
+
+.label-num-two {
+    border: 1px solid transparent;
+    height: 100%;
+    width: 60%;
+}
+
+.label-num-two h2 {
+    color: rgb(86, 101, 115);
+    font-size: 180px;
+    margin-top: -30px;
+}
+
+.label-text-two {
+    border: 1px solid transparent;
+    height: 30%;
+    margin-left: 60%;
+    margin-top: -30%;
+    width: 40%;
+}
+
+.label-text-two h3 {
+    color: rgb(28, 40, 51 ); 
+    font-size: 35px;
+    margin-top: 0px;
+    text-transform: uppercase;
+}
+
+.text-two p {
+    margin-top: -100px;
+}
