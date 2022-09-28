@@ -1,6 +1,6 @@
 body {
     background-image: url("../../assets/images/Los-Angeles-Mountains.jpg");
-    height: 2630px;
+    height: 2620px;
 }
 
 /* HEADER  */
@@ -144,4 +144,54 @@ header nav ul li a {
 
 .text-two p {
     margin-top: -100px;
+}
+
+/* THIRD SECTION */
+
+#three {
+    border: 1px solid transparent;
+    height: 545px;
+    margin-top: 50px;
+}
+
+.schedule {
+    border: 1px solid transparent;
+    height: 225px;
+    margin-left: 342px;
+    margin-top: 100px;
+    width: 350px;
+}
+
+.schedule-header {
+    border: 1px solid transparent;
+    height: 25%;
+    text-align: center;
+}
+
+.schedule-header h3 {
+    border: 1px solid transparent;
+    color: rgb(28, 40, 51 ); 
+    font-size: 30px;
+    height: 60%;
+    margin-left: 25%;
+    margin-top: 10px;
+    text-transform: uppercase;
+    width: 50%;
+}
+
+.schedule-body {
+    border: 1px solid transparent;
+    height: 75%;
+}
+
+.day {
+    border: 1px solid transparent;
+    display: flex;
+    height: 17%;
+    justify-content: space-around;
+    margin-left: -15px;
+}
+
+.d-two, .d-three {
+    margin-top: 10px;
 }
