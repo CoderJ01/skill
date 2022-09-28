@@ -3,6 +3,8 @@ body {
     height: 2630px;
 }
 
+/* HEADER  */
+
 header {
     height: 50px;
     margin-left: 750px;
@@ -24,5 +26,56 @@ header nav ul li a {
     color: white;
     font-size: 20px;
     text-decoration: none;
+}
+
+/* FIRST SECTION  */
+
+.one {
+    border: 1px solid transparent;
+    height: 710px;
+    margin-top: 832px;
+    width: 1330px;
+}
+
+.text-one {
+    border: 1px solid transparent;
+    height: 10%;
+    margin-left: 17%;
+    margin-top: 15%;
+    width: 66%;
+}
+
+.label {
+    border: 1px solid transparent;
+    height: 200%;
+    margin-top: -17%;
+    width: 40%;
+}
+
+.label-num {
+    border: 1px solid transparent;
+    height: 100%;
+    width: 50%;
+}
+
+.label-num h2 {
+    color: rgb(86, 101, 115);
+    font-size: 180px;
+    margin-top: -30px;
+}
+
+.label-text {
+    border: 1px solid transparent;
+    height: 30%;
+    margin-left: 50%;
+    margin-top: -24%;
+    width: 50%;
+}
+
+.label-text h3 {
+    color: rgb(28, 40, 51 ); 
+    font-size: 35px;
+    margin-top: 0px;
+    text-transform: uppercase;
 }
 
