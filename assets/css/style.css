@@ -200,3 +200,71 @@ header nav ul li a {
 .d-two, .d-three {
     margin-top: 10px;
 }
+
+/* iPad */
+@media screen and (max-width: 768px) {
+    body {
+        background-size: 110% 110%;
+    }
+
+    header {
+        margin-left: 400px;
+    }
+
+    header nav ul li {
+        width: 400%;
+    }
+
+    header nav ul li a {
+        font-size: 30px;
+        width: 200%;
+    }
+
+    .header-two {
+        margin-top: 835px;
+    }
+
+    #one {
+        margin-left: -200px;
+        margin-top: 950px;
+    }
+
+    .text-one p {
+        background-color: white;
+        font-size: 25px;
+        width: 600px;
+    }
+
+    #two {
+        margin-left: -250px;
+        margin-top: 270px;
+    }
+
+    .label-text-two {
+        margin-left: 170px;
+        margin-top: -80px;
+    }
+
+    .text-two p {
+        font-size: 30px;
+        margin-left: -50px;
+        margin-top: -160px;
+        width: 375px;
+    }
+
+    .schedule {
+        border: 1px solid transparent;
+        height: 250px;
+        margin-left: 180px;
+        margin-top: 110px;
+        width: 170px;
+    }
+
+    .schedule-header h3 {
+        margin-left: 5px;
+    }
+
+    .day p {
+        font-size: 20px;
+    }
+}
